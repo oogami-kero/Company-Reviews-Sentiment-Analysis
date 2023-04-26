@@ -6,5 +6,7 @@ Link to CoLab Notebook: https://colab.research.google.com/drive/15aDDuwLgDT0aGwo
 
 Datasets from:
 https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
+
 https://www.kaggle.com/datasets/d4rklucif3r/restaurant-reviews
+
 https://www.kaggle.com/datasets/fanbyprinciple/airport-reviews
